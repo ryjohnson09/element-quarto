@@ -1,0 +1,7 @@
+# Virtual environment
+# The common name for a virtual environment is 'venv' or '.venv'.
+# If your virtual environment has a different name, adjust this line.
+venv/
+.venv/
+
+/.quarto/
